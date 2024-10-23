@@ -1,4 +1,3 @@
-import { useState } from 'react'
 import { Gallery } from './components/Gallery'
 
 function App() {
